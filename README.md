@@ -1,1 +1,1 @@
-# laravel_debugbar
+sitedebugger-scanner
