@@ -27,7 +27,7 @@ pip install -r requirements.txt
 </ol>
 
 <pre>
-python debugbar_checker.py
+python scan.py
 </pre>
 
 <p>The script will then check each URL for the presence of different debuggers and print the results to the console. It will also save the URLs with debuggers found in separate result files.</p>
